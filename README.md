@@ -1,4 +1,4 @@
-# 🥋 Academia Fight Club — Frontend (Next.js)
+# 🥋 Academia Fight Club — Frontend (Next)
 
 ## 📋 Sobre o Projeto
 Frontend moderno desenvolvido com **Next.js 14**, **TypeScript** e **TailwindCSS**, para uma academia especializada em **Jiu-Jitsu, Muay Thai, Boxe, MMA e Treinos de Musculação**. 
