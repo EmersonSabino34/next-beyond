@@ -11,7 +11,6 @@ O site apresenta as modalidades, horários, planos, equipe de treinadores e um f
 - **Lucide Icons** (ícones modernos e leves)  
 - **Framer Motion** (animações suaves)  
 - **ShadCN/UI** (componentes de UI reutilizáveis)
-
 ---
 
 ## 📁 Estrutura do Projeto
