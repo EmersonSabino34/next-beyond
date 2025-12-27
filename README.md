@@ -2,9 +2,7 @@
 ## 📋 Sobre o Projeto
 Frontend moderno desenvolvido com **Next.js 14**, **TypeScript** e **TailwindCSS**, para uma academia especializada em **Jiu-Jitsu, Muay Thai, Boxe, MMA e Treinos de Musculação**. 
 O site apresenta as modalidades, horários, planos, equipe de treinadores e um formulário de contato totalmente responsivo.
-
 ---
-
 ## 🚀 Tecnologias Utilizadas
 - **Next.js 14 (App Router)**  
 - **React 18**  
