@@ -42,7 +42,6 @@ frontend/
 ```
 
 
-
 ## ⚙️ Instalação e Execução
 1. Clone o repositório:
    ```bash
