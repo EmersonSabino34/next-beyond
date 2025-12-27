@@ -54,7 +54,6 @@ frontend/
    ```bash
    npm run dev
    ```
-
 4. Acesse o projeto em:
    👉 [http://localhost:3000](http://localhost:3000)
 
