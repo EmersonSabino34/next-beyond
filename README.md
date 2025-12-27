@@ -80,8 +80,8 @@ frontend/
 **Emerson Sabino** — Desenvolvedor Full Stack  
 💼 Especialista em Next.js, TypeScript, React e TailwindCSS.
 
-📧 [Contato profissional](mailto:emersonsabino.dev@gmail.com)
+📧 [Contato profissional](mailto:emersonsabino34@gmail.com)
 
----
+
 
 
