@@ -50,7 +50,6 @@ frontend/
    ```bash
    npm install
    ```
-
 3. Execute o servidor de desenvolvimento:
    ```bash
    npm run dev
