@@ -84,5 +84,4 @@ frontend/
 
 ---
 
-## 📜 Licença
-Este projeto está licenciado sob a **MIT License** — você pode usar e modificar livremente para fins pessoais ou comerciais.
+
