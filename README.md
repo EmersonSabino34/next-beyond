@@ -47,7 +47,6 @@ frontend/
    git clone https://github.com/seuusuario/academia-fightclub-frontend.git
    cd academia-fightclub-frontend
    ```
-
 2. Instale as dependências:
    ```bash
    npm install
