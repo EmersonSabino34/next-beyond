@@ -9,7 +9,6 @@ import React from "react";
 
 export default function AcademiaLanding() {
   return (
-    
     <div className="min-h-screen bg-gray-50 text-slate-900 antialiased">
       {/* NAV */}
       <header className="bg-white shadow-sm sticky top-0 z-40">
