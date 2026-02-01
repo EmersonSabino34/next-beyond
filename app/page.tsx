@@ -48,6 +48,7 @@ export default function AcademiaLanding() {
                 <a href="#planos" className="bg-yellow-400 text-black px-5 py-3 rounded-md font-bold shadow">Assine agora</a>
                 <a href="#contato" className="bg-transparent border border-white/30 px-5 py-3 rounded-md">Agende uma aula grátis</a>
               </div>
+              
               <div className="mt-6 text-sm text-gray-100/80">Horário: Seg–Sex 6:00–22:00 • Sáb 8:00–13:00</div>
             </div>
 
