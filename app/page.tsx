@@ -8,8 +8,7 @@ import React from "react";
 // - Certifique-se que Tailwind CSS está configurado no projeto.
 
 export default function AcademiaLanding() {
-  return (
-    
+  return ( 
     <div className="min-h-screen bg-gray-50 text-slate-900 antialiased">
       {/* NAV */}
       <header className="bg-white shadow-sm sticky top-0 z-40">
