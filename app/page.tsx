@@ -33,7 +33,6 @@ export default function AcademiaLanding() {
           </div>
         </div>
       </header>
-
       {/* HERO */}
       <section className="bg-[url('https://images.unsplash.com/photo-1517649763962-0c623066013b?auto=format&fit=crop&w=1600&q=60')] bg-cover bg-center text-white">
         <div className="backdrop-brightness-50">
