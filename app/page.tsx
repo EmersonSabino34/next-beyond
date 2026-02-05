@@ -28,7 +28,6 @@ export default function AcademiaLanding() {
             <a href="#planos" className="hover:text-red-600">Planos</a>
             <a href="#contato" className="hover:text-red-600">Contato</a>
           </nav>
-
           <div className="flex items-center gap-3">
             <a href="#contato" className="hidden sm:inline-block bg-red-600 text-white px-4 py-2 rounded-md text-sm font-semibold shadow">Agende uma aula</a>
             <button className="md:hidden p-2 rounded-md bg-gray-100">☰</button>
