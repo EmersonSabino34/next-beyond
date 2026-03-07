@@ -15,6 +15,7 @@ O site apresenta as modalidades, horários, planos, equipe de treinadores e um f
 - **ShadCN/UI** (componentes de UI reutilizáveis)
 ---
 ## 📁 Estrutura do Projeto
+
 ```
 frontend/
 ├── app/
