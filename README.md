@@ -5,7 +5,6 @@ Frontend moderno desenvolvido com **Next.js 14**, **TypeScript** e **TailwindCSS
 O site apresenta as modalidades, horários, planos, equipe de treinadores e um formulário de contato totalmente responsivo.
 ---
 
-
 ## 🚀 Tecnologias Utilizadas
 - **Next.js 14 (App Router)**  
 - **React 18**  
