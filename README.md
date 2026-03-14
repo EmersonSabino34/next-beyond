@@ -43,7 +43,6 @@ frontend/
 ├── package.json
 └── tailwind.config.ts
 
-
 ```
 ## ⚙️ Instalação e Execução
 1. Clone o repositório:
