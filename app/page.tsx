@@ -7,7 +7,6 @@ import React from "react";
 // - Coloque este arquivo em `src/components/AcademiaLanding.jsx` e importe na sua página (Next: pages/index.jsx ou app/page.jsx).
 // - Certifique-se que Tailwind CSS está configurado no projeto.
 
-
 export default function AcademiaLanding() {
   return ( 
     <div className="min-h-screen bg-gray-50 text-slate-900 antialiased">
