@@ -1,7 +1,6 @@
 "use client"
 import React from "react";
 
-
 // AcademiaLanding.jsx
 // Página única (single-file) pronta para uso em um projeto React/Next com Tailwind CSS.
 // Como usar:
