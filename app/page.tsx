@@ -18,8 +18,7 @@ export default function AcademiaLanding() {
             <div>
               <h1 className="text-lg font-extrabold">Academia CombatFit</h1>
               <p className="text-xs text-slate-500">Jiu‑Jitsu • Muay Thai • Boxe • MMA • Musculação</p>
-            </div>
-            
+            </div>            
           </div>
           <nav className="hidden md:flex gap-6 text-sm font-medium">
             <a href="#classes" className="hover:text-red-600">Aulas</a>
