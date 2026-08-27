@@ -69,8 +69,6 @@ export default function AcademiaLanding() {
         </div>
       </section>
 
-      
-
       {/* CLASSES */}
       <section id="classes" className="max-w-7xl mx-auto px-6 py-16">
         <h3 className="text-3xl font-extrabold">Nossas modalidades</h3>
