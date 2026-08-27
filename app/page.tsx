@@ -41,6 +41,7 @@ export default function AcademiaLanding() {
               <h2 className="text-4xl md:text-5xl font-extrabold leading-tight drop-shadow">Transforme seu corpo e sua mente</h2>
               <p className="mt-4 text-lg text-gray-100/90 max-w-2xl">Aulas de Jiu‑Jitsu, Muay Thai, Boxe, MMA e treinos de musculação. Programas para todos os níveis — iniciantes ao avançado.</p>
 
+              
               <div className="mt-6 flex gap-4">
                 <a href="#planos" className="bg-yellow-400 text-black px-5 py-3 rounded-md font-bold shadow">Assine agora</a>
                 <a href="#contato" className="bg-transparent border border-white/30 px-5 py-3 rounded-md">Agende uma aula grátis</a>
