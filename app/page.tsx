@@ -50,6 +50,7 @@ export default function AcademiaLanding() {
               <div className="mt-6 text-sm text-gray-100/80">Horário: Seg–Sex 6:00–22:00 • Sáb 8:00–13:00</div>
             </div>
 
+            
             <div className="w-full max-w-md bg-white/10 p-6 rounded-lg shadow-lg">
               <h3 className="text-xl font-bold">Aula Experimental Gratuita</h3>
               <p className="mt-2 text-sm text-gray-100/80">Venha conhecer nossa estrutura — traga sua energia!</p>
