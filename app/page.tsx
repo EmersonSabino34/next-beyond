@@ -52,7 +52,6 @@ export default function AcademiaLanding() {
             <div className="w-full max-w-md bg-white/10 p-6 rounded-lg shadow-lg">
               <h3 className="text-xl font-bold">Aula Experimental Gratuita</h3>
               <p className="mt-2 text-sm text-gray-100/80">Venha conhecer nossa estrutura — traga sua energia!</p>
-
               <form className="mt-4 grid gap-3" onSubmit={(e) => { e.preventDefault(); alert('Obrigado! Entraremos em contato.'); }}>
                 <input aria-label="Nome" required placeholder="Seu nome" className="px-3 py-2 rounded-md bg-white/90" />
                 <input aria-label="Telefone" required placeholder="Telefone" className="px-3 py-2 rounded-md bg-white/90" />
